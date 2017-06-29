@@ -101,3 +101,6 @@ each columns contains one variable and each rows contains observations. Heading 
 4       1            WALKING         0.2773308      -0.017383819        -0.1111481      -0.28374026
 5       1 WALKING_DOWNSTAIRS         0.2891883      -0.009918505        -0.1075662       0.03003534
 6       1   WALKING_UPSTAIRS         0.2554617      -0.023953149        -0.0973020      -0.35470803
+
+## writing on a text file
+The function write on a text fiile named "meandata.txt."
